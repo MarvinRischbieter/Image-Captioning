@@ -23,3 +23,6 @@ I also commented strange http requests in the train script provided by Udacity (
 Additionally, I provided a Predictor class which can be used to predict image caption for any image, an image path is required only (see prediction.py).
 
 Unfortunately, I did not have time to complete the optional task for creating BLEU score script as the provided repo has incompatible python 2 code. 
+
+Download the models here and add to /models:
+https://drive.google.com/drive/folders/1i7Jju77DE1uMwQNUsIAF6b1GYTghDbco?usp=sharing
